@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RanDByyp/React-Minesweeper/static/css/main.85fca585.chunk.css",
+    "main.js": "/RanDByyp/React-Minesweeper/static/js/main.8d62e616.chunk.js",
+    "main.js.map": "/RanDByyp/React-Minesweeper/static/js/main.8d62e616.chunk.js.map",
+    "runtime-main.js": "/RanDByyp/React-Minesweeper/static/js/runtime-main.78203a9d.js",
+    "runtime-main.js.map": "/RanDByyp/React-Minesweeper/static/js/runtime-main.78203a9d.js.map",
+    "static/js/2.b22823cb.chunk.js": "/RanDByyp/React-Minesweeper/static/js/2.b22823cb.chunk.js",
+    "static/js/2.b22823cb.chunk.js.map": "/RanDByyp/React-Minesweeper/static/js/2.b22823cb.chunk.js.map",
+    "index.html": "/RanDByyp/React-Minesweeper/index.html",
+    "precache-manifest.8806fb2bc66e6eaf8137e4548c17aa45.js": "/RanDByyp/React-Minesweeper/precache-manifest.8806fb2bc66e6eaf8137e4548c17aa45.js",
+    "service-worker.js": "/RanDByyp/React-Minesweeper/service-worker.js",
+    "static/css/main.85fca585.chunk.css.map": "/RanDByyp/React-Minesweeper/static/css/main.85fca585.chunk.css.map",
+    "static/js/2.b22823cb.chunk.js.LICENSE.txt": "/RanDByyp/React-Minesweeper/static/js/2.b22823cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78203a9d.js",
+    "static/js/2.b22823cb.chunk.js",
+    "static/css/main.85fca585.chunk.css",
+    "static/js/main.8d62e616.chunk.js"
+  ]
+}

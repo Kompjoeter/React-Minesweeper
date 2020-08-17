@@ -10,6 +10,9 @@ This is my first React app. I solely made it to get a better understanding how R
 
 # Table of Contents
 
+**src folder**
+  - **utility.js** - A collection of modular function that are used by the components of the app.
+
 **src/components folder**
 - **Game.js** Stores game settings such as difficulty, width/height, amount of mines, game-state.
   - **Field.js** Generates and stores all data of the game (What cells, are revealed, mines, flagged, etc). Handles manipulation/changes of cells. 

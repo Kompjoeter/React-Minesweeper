@@ -4,7 +4,7 @@
 
 A minesweeper clone made with Reactjs.
 
-This is my first React app. I solely made it to get a better understanding how React works and thus did not put time into making the app properly responsive or accesible for mobile use. I might or might not do so, for this project, in the future.
+This is my first React app. I solely made it to get a better understanding how React works and chose not to put time into making the app properly responsive or accesible for mobile use. I might or might not do so, for this project, in the future.
 
 ![Image of Minesweeper](https://raw.githubusercontent.com/RanDByyp/React-Minesweeper/gh-pages/sweeper.PNG)
 
